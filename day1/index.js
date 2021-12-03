@@ -1,4 +1,4 @@
-const helpers = require('../helpers/helpers')
+const helpers = require('../helpers/helpers');
 
 function SolveProblem(part) {
   if(part == 1) {

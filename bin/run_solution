@@ -1,3 +1,2 @@
 #! /usr/bin/env bash
-echo $2
 node $1/index.js $2

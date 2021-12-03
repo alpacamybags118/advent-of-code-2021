@@ -1,3 +1,5 @@
+const helpers = require('../helpers/helpers');
+
 function SolveProblem(part) {
   if(part == 1) {
     Part1();
